@@ -1,0 +1,5 @@
+{
+  "name": "OK Music Downloader",
+  "description": "Extract and download music tracks from OK.ru playlists.",
+  "requestFramePermissions": []
+}
